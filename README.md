@@ -6,8 +6,6 @@ Foi desenvolvido em JavaScript toda a lógica da aplicação para adicionar perg
 
 Foi praticado a manipulação de elementos no DOM do HTML através do QuerySelector, para acicionar as peguntas na pagina de forma dinamica.
 
-![alt text](https://firebasestorage.googleapis.com/v0/b/werlen-dev.appspot.com/o/projects%2Fimages%2Fquizz.png?alt=media&token=8420e100-60b1-4653-8778-170bfcf61f9c)
-
 Foi desenvovida a função para verificar se o usuário acertou ou errou a pergunta. A verificação é feira através do campo "correct" presente em cada pergunta que vem no formato de JSON. Se a resposta que o usuário marcar tiver o campo "correct" com o valor TRUE, é contabilizado o ponto.
 ![alt text](https://firebasestorage.googleapis.com/v0/b/werlen-dev.appspot.com/o/projects%2Freadmes%2Fquizz%2F02%20verifica%20resposta.png?alt=media&token=02612320-6e1e-4fac-a36d-fe55f380b43a)
 
